@@ -28,3 +28,5 @@ The dashboard includes:
 All data was processed and analyzed in Power BI, involving data preparation, anomaly detection logic, and time-based forecasting models. I focused on building a clean and intuitive visualization while keeping a thematic aesthetic aligned with the Warhammer brand.
 
 This project is part of my portfolio showcasing analytical storytelling in financial contexts.
+
+![GamesWorkshop](https://github.com/JulianAdarme/Data-Analysis-Portfolio/blob/main/PowerBi/GWss.png?raw=true)
