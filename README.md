@@ -1,4 +1,4 @@
-# Excel-Market-Sales
+# Forensic Project
 ## Description
 
 This first dashboard presents a detailed visualization of violent deaths in Colombia during the first quarter of 2024, organized by city and manner of death. The raw data was retrieved from an official government platform [LinkForense], which initially provided a useful baseline for analysis. However, to achieve the insights shown here, extensive data cleaning and restructuring were required using both Excel and Power Query within Power BI.
